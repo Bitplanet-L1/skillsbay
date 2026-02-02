@@ -1,4 +1,4 @@
-# Contributing to SkillsChest
+# Contributing to SkillsBay
 
 Thanks for contributing! This guide will help you add skills that benefit the AI agent community.
 
@@ -76,8 +76,8 @@ More complex example
 ### 1. Fork & Clone
 
 ```bash
-gh repo fork Bitplanet-L1/skillschest --clone
-cd skillschest
+gh repo fork Bitplanet-L1/skillsbay --clone
+cd skillsbay
 ```
 
 ### 2. Create Your Skill
@@ -156,4 +156,4 @@ Open an issue if you have questions or need help structuring your skill.
 
 ---
 
-Thank you for contributing to SkillsChest! 🎉
+Thank you for contributing to SkillsBay! 🎉

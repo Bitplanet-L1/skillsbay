@@ -1,8 +1,8 @@
-# SkillsChest 🧰
+# SkillsBay 🧰
 
 A curated collection of AI agent skills for Claude, OpenCode, Codex, and other AI coding agents.
 
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Bitplanet-L1/skillschest/pulls)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Bitplanet-L1/skillsbay/pulls)
 [![License](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](LICENSE)
 
 ## What Are Skills?
@@ -15,10 +15,10 @@ Think of skills as "onboarding guides" for agents — they transform a general-p
 
 ```bash
 # Install a skill
-npx skills add Bitplanet-L1/skillschest@<skill-name>
+npx skills add Bitplanet-L1/skillsbay@<skill-name>
 
 # List available skills
-npx skills add Bitplanet-L1/skillschest --list
+npx skills add Bitplanet-L1/skillsbay --list
 ```
 
 ## Available Skills
@@ -69,7 +69,7 @@ Instructions for the agent...
 
 See [SKILL-TEMPLATE.md](SKILL-TEMPLATE.md) for a complete template.
 
-## Why SkillsChest?
+## Why SkillsBay?
 
 - **Open & Community-Driven** — Anyone can contribute skills
 - **Cross-Platform** — Works with Claude Code, OpenCode, Codex, Cursor, and more
